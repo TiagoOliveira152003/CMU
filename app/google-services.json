@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437894327420",
+    "project_id": "cmurecurso-62b93",
+    "storage_bucket": "cmurecurso-62b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437894327420:android:ca18c5120ab98ff52fedf9",
+        "android_client_info": {
+          "package_name": "com.example.cmu_recurso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMSG8GGEuyuIC2AiCe9yuLcFvhxB06-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
